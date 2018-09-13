@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a rough implementation of the Mollon Zhao algorithm to make 
 particles of arbitrary shape from their fourier shape descriptors.
 
@@ -10,3 +11,6 @@ shape descriptors could be very interesting to analyze the variation of
 particle packing or transport properties in a DEM model adapted to handle
 particles of arbitrary shape, such as the Grains3D algorithm utilizing GJK 
 contact evaluations as developed by Anthony Wachs at UBC 
+=======
+# mollon-zhao
+>>>>>>> bb7039e75939aa8f4660ea86e9156f6683241889
