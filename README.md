@@ -2,6 +2,8 @@
 This is a rough implementation of the Mollon Zhao algorithm to make 
 particles of arbitrary shape from their fourier shape descriptors.
 
+guilhem.mollon.free.fr/Telechargements/Mollon_Zhao_CMAME2014.pdf
+
 This could be potentially interesting for analyzing the downstream erosion 
 of particles as they travel down river systems, since fourier shape
 descriptors contain more information than most other options
